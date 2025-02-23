@@ -4,7 +4,7 @@
 This Power BI project provides a comprehensive analysis of global movie and TV show trends using a curated dataset. The dashboard visualizes key insights, such as content distribution by country, release year trends, rating classification, and monthly content additions.
 
 📂 Dataset Information
-1. Dataset Name: netflix_titles_sorted.csv
+1. Dataset Name: content_titles_sorted.csv
 2. Columns Used:
 3. title – Name of the movie/TV show
 4. type – Movie or TV Show
